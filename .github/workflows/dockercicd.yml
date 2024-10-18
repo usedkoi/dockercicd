@@ -3,7 +3,7 @@ name: "dockercicd"
 on:
   push:
     branches: ["main"]
-  pull_requeset:
+  pull_request:
     branches: ["main"]
 
 jobs:
